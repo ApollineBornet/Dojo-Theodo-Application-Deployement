@@ -31,7 +31,7 @@ export const FOOD_ITEMS: Array<FoodItem> = [
   {
     name: "Boeuf Fromage",
     kcal: 175,
-    imageUrl: BeefCheese
+    imageUrl: "https://png.pngtree.com/png-clipart/20231017/original/pngtree-barbecue-meat-skewer-png-image_13326486.png"// BeefCheese
   },
   {
     name: "Soupe Miso",
@@ -41,6 +41,6 @@ export const FOOD_ITEMS: Array<FoodItem> = [
   {
     name: "Viande",
     kcal: 130,
-    imageUrl: Meat
+    imageUrl: "https://png.pngtree.com/png-clipart/20231017/original/pngtree-barbecue-meat-skewer-png-image_13326486.png" //Meat
   }
 ];
